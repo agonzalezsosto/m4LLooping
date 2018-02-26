@@ -16,3 +16,7 @@ Ocean Looper is a convolution-based looping tool that allows the user to explore
 **Popcorn Looper**
 
 Popcorn Looper is a looper that plays random segments of a recorded loop.
+
+**Bucket Looper**
+
+Popcorn Looper is a looper that plays random segments of a recorded loop.
