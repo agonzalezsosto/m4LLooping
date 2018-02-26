@@ -1,7 +1,7 @@
 # m4LLooping
 A collection of looping M4L devices.
 
-# Pixel Looper 
+**Pixel Looper**
 
 Pixel Looper is a spectral delay/looping tool that allows the user to create a uniquely sized loop for multiple spectral bands. 
 
